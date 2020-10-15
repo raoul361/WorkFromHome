@@ -109,6 +109,7 @@ I've also covered some side windows with a sheet, because the light was too stro
 # Integration
 
 ![schematic of cables](pics/schematic.png)
+
 I only have one cable to switch!
 
 Monitors are USB hubs; 
@@ -121,5 +122,5 @@ On the diagram, the red line represents the USB cable that I switch between comp
 
 # Issues
 - Cameras are usually driver-less - but need to be configured/setup every time you reboot or reconnect them. There is software, but we can't install this 
-- On my home PC I use software to control the camera and blur/replace background image. This works MUCH better than the stuff in teams, but can't be run on our laptops due to restrictions. Worth investigating if you do more than work calls.
+- On my home PC I use software to control the camera and blur/replace background image. This works MUCH better than the stuff in Microsoft Teams or Zoom, but can't be run on our laptops due to restrictions. Worth investigating if you do more than work calls.
 - Mechanical keyboard does make some noise, but is soooo good  
