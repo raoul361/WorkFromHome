@@ -40,6 +40,8 @@ This is an Australian company; this mic does not require a mixer/amplifier/phant
 ## Speakers
 https://www.logitech.com/en-au/product/multimedia-speakers-z200?crid=47
 
+![Logitech z200 Speakers](pics/speakers.png)
+
 Good performers; these are taped lying down to fit underneath the monitors.
 - Volume control, so I don't need to find and adjust from the little icon in the taskbar. Much easier
 - has a second input. You'll note a little green cable that connects from my laptop. This means I get Spotify from my home PC and audio from work at the same time!
@@ -49,6 +51,8 @@ Good performers; these are taped lying down to fit underneath the monitors.
 ## Webcam
 https://www.logitech.com/en-au/product/c922-pro-stream-webcam
 There is a LOT to say here, a lot of options.
+
+![Logitech c922 webcam](pics/webcam.png)
  
 - It's a 1080p camera; although we only ever use 360/720 for conferences. This gives you the ability to zoom in a bit closer without loosing quality/definition on a 720p call.
 - Reasonable dynamic range
