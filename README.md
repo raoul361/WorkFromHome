@@ -50,18 +50,16 @@ Good performers; these are taped lying down to fit underneath the monitors.
 https://www.logitech.com/en-au/product/c922-pro-stream-webcam
 There is a LOT to say here, a lot of options.
  
-
- 
-- It's a 1080p camera; although we only ever use 360/720 for conferences. This gives you the ability to Zoom in
+- It's a 1080p camera; although we only ever use 360/720 for conferences. This gives you the ability to zoom in a bit closer without loosing quality/definition on a 720p call.
 - Reasonable dynamic range
 - It does have a microphone which can be used, but will make you sound rather 'empty'
 - No drivers - but see issues on setup with Teams.
  
-- Camera must be backlit. Webcams are just too low quality to deal with light coming from the front. Ergo 
+***Camera must not be backlit***. Webcams are just too low quality to deal with light coming directly onto the lens. Ergo 
 - Don't sit with a window behind you or just to the side
-- Overhead lights also play havoc, avoid any ceiling light being in-shot
+- Overhead lights also play havoc, avoid any ceiling light being in-shot. ***I taped a piece of paper over my light so as to limit glare from overhead.***
 
-- Think of camera placement 
+Think of camera placement 
 - Don't want to look up your nose.
 - Wide angle is not flattering. Your face should fill most of the frame (especially when there are multiple participants in a group chat)
 - Best camera placement: just above eye height, slightly facing down.
@@ -70,12 +68,12 @@ There is a LOT to say here, a lot of options.
 - Also not a good idea to have a camera that moves (laptop screen, iphone, etc). Just nauseating 
 
 
-- Background: 
+Background: 
 - The "blur" in Teams doesn't work well. It is more distracting than anything else. I use dedicated software, but this only works on my home PC.
 - I go more for a darker background. I have a light in the background ("practical light") just to add some ambience/visuals. It doesn't affect the level of light at all.
  
 ### Camera Configuration
-The camera does not save settings. Each time it is plugged in to a new computer or rebooted, it needs to be configured. Only takes a few seconds though.
+***The camera does not save settings.*** Each time it is plugged in to a new computer or rebooted, it needs to be configured. Only takes a few seconds though.
           
 - Turn off Auto-Focus and Whitebalance - this speeds up the camera (yeah, I know)
 - Adjust whitebalance
@@ -91,6 +89,7 @@ To gain desk space, I've relegated my laptop screen and use a (semi) dedicated m
 ## Lighting
 
 https://www.amazon.com.au/Neewer-Packs-Dimmable-Bi-Color-Lighting/dp/B072Q42GXQ (just for reference, you can get them fairly cheap if you look around)
+
 I'm using two lights. Both are cheap Chinese brand lights on desk stands. Run off 240v, no batteries to mess with.
 - Softbox is the main light, provides nice gentle lighting.
 - Light on the right is the fill-light. 
