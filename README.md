@@ -26,6 +26,8 @@ I really wanted speakers as opposed to headphones. This gives better spatial aud
 ## Microphone
 https://www.rode.com/microphones/nt-usb_mini
 
+![Rode NT USB Mini microphone](pics/nt-usb_mini.jpg)
+
 This is an Australian company; this mic does not require a mixer/amplifier/phantom power, it's a simple USB connection. 
 - It has a built in pop filter. This is super important.
 - Small and compact.
