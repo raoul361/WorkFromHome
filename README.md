@@ -108,8 +108,7 @@ I've also covered some side windows with a sheet, because the light was too stro
 
 # Integration
 
-***Pic coming***
-
+![schematic of cables](pics/schematic.png)
 I only have one cable to switch!
 
 Monitors are USB hubs; 
