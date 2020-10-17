@@ -4,7 +4,18 @@ I got asked this a bit, so documenting for reference.
 My hobby is photography, so I know about lighting and how cameras work; I've also done a bit of audio work (engineering, roadie, mixing, etc) so have tried to use this knowledge to get the most out of a modicum of investment.
 
 I came up with this set up over a couple of months. I started back in April, when I realised Covid-normal was going to be here for the rest of 2020 and I wanted something better than a laptop with a headset.
+
+### Audio or Listener Fatigue
+In dicussing this, I've come across a number of concepts related to ***Listener Fatigue*** which posits that un-natural sounds such as noises (breathing, crackling microphones) and bad quality sound encoding can be really problematic for the brain to filter and understand. This means you spend more time processing what is being said and consequently tire very quickly.
  
+<https://theconversation.com/zoom-fatigue-how-to-make-video-calls-less-tiring-137861>
+
+>Many new phrases have entered our vocabulary as a result of the COVID-19 pandemic and lockdown. “Zoom fatigue” refers to the mental exhaustion associated with online video conferencing.
+>
+>We can change how we interact on video calls with adapted social behaviours such as scheduling shorter meetings. But theories from audio and sound research tell us that a lot of what determines how fatigued you become is based on what you are listening to.
+>
+>The voices transmitted through the internet in real time are unedited and therefore crude to our ears. That is why we can wile away an hour listening to a podcast interview but feel drained after a video meeting – even if we didn’t have to contribute.
+
 Please also see the Issues section below.
 
 ![Pcture of desk layout](pics/desk.png)
