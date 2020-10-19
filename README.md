@@ -86,8 +86,9 @@ Think of camera placement
 
 
 Background: 
-- The "blur" in Teams doesn't work well. It is more distracting than anything else. I use dedicated software, but this only works on my home PC.
+- The "blur" in Teams/Zoom doesn't work very well. It is more distracting than anything else. I use dedicated software, but this only works on my home PC.
 - I go more for a darker background. I have a light in the background ("practical light") just to add some ambience/visuals. It doesn't affect the level of light at all.
+- Coloured LEDs also work great to add some contrast on the background. Need about 7 watts, maybe more.
  
 ### Camera Configuration
 ***The camera does not save settings.*** Each time it is plugged in to a new computer or rebooted, it needs to be configured. Only takes a few seconds though.
@@ -132,6 +133,7 @@ Both laptop and PC are connected to speakers, but this does mean the volume knob
 On the diagram, the red line represents the USB cable that I switch between computers to move the camera/mic. This means I don't need to move/rewire both of them every time I need to change.
 
 # Issues
-- Cameras are usually driver-less - but need to be configured/setup every time you reboot or reconnect them. There is software, but we can't install this 
+- Cameras are usually driver-less - but need to be configured/setup every time you reboot or reconnect them. There is software, but we can't install this. 
 - On my home PC I use software to control the camera and blur/replace background image. This works MUCH better than the stuff in Microsoft Teams or Zoom, but can't be run on our laptops due to restrictions. Worth investigating if you do more than work calls.
 - Mechanical keyboard does make some noise, but is soooo good  
+- Microsoft Teams is really problematic with external hardware (mic and cameras). See this on setting ***Exclusive*** mode for audio. https://www.sweetwater.com/sweetcare/articles/how-to-disable-exclusive-mode-in-windows-sound-settings/
